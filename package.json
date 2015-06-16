@@ -1,0 +1,31 @@
+{
+  "name": "enu",
+  "version": "1.0.0",
+  "description": "Extract enumerable and non-enumerable properties from an object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3rd-Eden/enu.git"
+  },
+  "keywords": [
+    "enu",
+    "enumerable",
+    "iterate",
+    "non-enumerable",
+    "non"
+  ],
+  "author": "Arnout Kazemier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/3rd-Eden/enu/issues"
+  },
+  "homepage": "https://github.com/3rd-Eden/enu#readme",
+  "devDependencies": {
+    "assume": "1.2.x",
+    "mocha": "2.2.x",
+    "pre-commit": "1.0.x"
+  }
+}
